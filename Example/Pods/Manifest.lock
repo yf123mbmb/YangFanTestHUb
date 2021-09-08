@@ -1,0 +1,16 @@
+PODS:
+  - YangFanTestHUb (0.1.0)
+
+DEPENDENCIES:
+  - YangFanTestHUb (from `../`)
+
+EXTERNAL SOURCES:
+  YangFanTestHUb:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YangFanTestHUb: 649761b641d039032067219eb7cfdd9e8886a2ee
+
+PODFILE CHECKSUM: 8da4064ba62ac5cb9372125ce1b0fe590f3fa62c
+
+COCOAPODS: 1.10.0

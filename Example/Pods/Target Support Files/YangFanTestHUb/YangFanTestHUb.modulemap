@@ -1,0 +1,6 @@
+framework module YangFanTestHUb {
+  umbrella header "YangFanTestHUb-umbrella.h"
+
+  export *
+  module * { export * }
+}
