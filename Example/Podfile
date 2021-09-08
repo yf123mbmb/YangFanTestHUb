@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YangFanTestHUb_Example' do
+  pod 'YangFanTestHUb', :path => '../'
+
+  target 'YangFanTestHUb_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
