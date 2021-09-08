@@ -1,15 +1,42 @@
 PODS:
-  - YangFanTestHUb (0.1.0)
+  - AFNetworking (2.7.0):
+    - AFNetworking/NSURLConnection (= 2.7.0)
+    - AFNetworking/NSURLSession (= 2.7.0)
+    - AFNetworking/Reachability (= 2.7.0)
+    - AFNetworking/Security (= 2.7.0)
+    - AFNetworking/Serialization (= 2.7.0)
+    - AFNetworking/UIKit (= 2.7.0)
+  - AFNetworking/NSURLConnection (2.7.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.7.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.7.0)
+  - AFNetworking/Security (2.7.0)
+  - AFNetworking/Serialization (2.7.0)
+  - AFNetworking/UIKit (2.7.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - YangFanTestHUb (0.1.0):
+    - AFNetworking (~> 2.3)
 
 DEPENDENCIES:
   - YangFanTestHUb (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
 
 EXTERNAL SOURCES:
   YangFanTestHUb:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YangFanTestHUb: 649761b641d039032067219eb7cfdd9e8886a2ee
+  AFNetworking: 8dd5f9b9691e09186393069a12cc3b5ed7c8b511
+  YangFanTestHUb: 3e1cc4a052511c1b6a10a7262ad4534e7ccb2b38
 
 PODFILE CHECKSUM: 8da4064ba62ac5cb9372125ce1b0fe590f3fa62c
 

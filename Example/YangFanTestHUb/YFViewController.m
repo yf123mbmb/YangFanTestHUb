@@ -7,7 +7,6 @@
 //
 
 #import "YFViewController.h"
-
 @interface YFViewController ()
 
 @end
@@ -17,6 +16,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+   // YFYangFan *y =  [YFYangFan new];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

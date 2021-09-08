@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of YangFanTestHUb.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/406742790@qq.com/YangFanTestHUb",
+  "homepage": "https://github.com/yf123mbmb/YangFanTestHUb",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "406742790@qq.com": "7478903+YangFanHome@user.noreply.gitee.com"
   },
   "source": {
-    "git": "https://github.com/406742790@qq.com/YangFanTestHUb.git",
+    "git": "https://github.com/yf123mbmb/YangFanTestHUb.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "YangFanTestHUb/Classes/**/*"
+  "source_files": "YangFanTestHUb/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
 }
