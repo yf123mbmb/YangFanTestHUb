@@ -12,6 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface YFYangFan : NSObject
 -(void)ShuChu;
+-(void)ShuChu2;
 @end
 
 NS_ASSUME_NONNULL_END

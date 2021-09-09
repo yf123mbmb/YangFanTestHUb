@@ -12,4 +12,7 @@
 - (void)ShuChu{
     NSLog(@"2222222");
 }
+- (void)ShuChu2{
+    NSLog(@"3333");
+}
 @end

@@ -1,5 +1,5 @@
 PODS:
-  - YangFanTestHUb (0.1.0)
+  - YangFanTestHUb (0.3.0)
 
 DEPENDENCIES:
   - YangFanTestHUb (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YangFanTestHUb: f255589fc7387d8b06ef44e557b7c6f1ab9a0bd8
+  YangFanTestHUb: 2a4660245ba71cd6a7be01ab02c6423241968d56
 
 PODFILE CHECKSUM: 8da4064ba62ac5cb9372125ce1b0fe590f3fa62c
 
